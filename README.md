@@ -1,1 +1,1 @@
-# StakingContract
+A staking contract that lets users stake contract tokens and get daily reward by the percentage of daily user growth, of which staking pool is funded by the transactions from; when users stake, unstake and make a transfer.
